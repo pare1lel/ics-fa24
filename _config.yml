@@ -28,6 +28,9 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 footer_content:
+aux_links:
+  "Repository on GitHub":
+  - "https://github.com/pare1lel/ics-fa24"
 
 # Collections for website data
 collections:

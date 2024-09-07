@@ -7,7 +7,7 @@ Dec 23
   : **read**{: .label .label-green}TBD
 
 Dec 25
-: **seminar**{: .label .label-purple}Week 15
+: **seminar**{: .label .label-purple}Week 16
   : **review**{: .label .label-yellow}26, 27
 
 Dec 26

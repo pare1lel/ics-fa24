@@ -3,7 +3,7 @@ title: Week 12
 ---
 
 Nov 25
-: **lecture**{: .label .label-blue}[System-Level I/O](/ics-fa24/assets/lec/19-SysIO.pdf)
+: **lecture**{: .label .label-blue}[System-level I/O](/ics-fa24/assets/lec/19-SysIO.pdf)
   : **read**{: .label .label-green}TBD
 
 Nov 27
