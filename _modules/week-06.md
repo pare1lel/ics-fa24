@@ -4,7 +4,7 @@ title: Week 6
 
 Oct 14
 : **lecture**{: .label .label-blue}[Processor Architecture I: ISA & Logic Design](/ics-fa24/assets/lec/09-Processor Arch-ISA&Logic.pdf)
-  : **read**{: .label .label-green}TBD
+  : **read**{: .label .label-green}Ch4.1 - Ch4.2
 
 Oct 16
 : **seminar**{: .label .label-purple}Week 6
@@ -12,4 +12,4 @@ Oct 16
 
 Oct 17
 : **lecture**{: .label .label-blue}[Processor Architecture II: Sequential Implementation](/ics-fa24/assets/lec/10-Processor Arch-Sequential.pdf)
-  : **read**{: .label .label-green}TBD
+  : **read**{: .label .label-green}Ch4.3

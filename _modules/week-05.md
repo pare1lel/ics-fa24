@@ -8,4 +8,4 @@ Oct 9
 
 Oct 10
 : **lecture**{: .label .label-blue}[Machine-level Programming V: Advanced Topics](/ics-fa24/assets/lec/08-machine-advanced.pdf)
-  : **read**{: .label .label-green}TBD
+  : **read**{: .label .label-green}Ch3.10

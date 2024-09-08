@@ -11,6 +11,7 @@ Peking University, 2024 Fall
 
 <p>
 <a href="https://autolab.pku.edu.cn" class="btn btn-purple">Autolab</a>
+<a href="https://clab.pku.edu.cn/" class="btn btn-blue">CLab</a>
 <a href="https://course.pku.edu.cn" class="btn btn-green">PKU Course Website</a>
 </p>
 

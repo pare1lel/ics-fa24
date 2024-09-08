@@ -4,7 +4,7 @@ title: Week 7
 
 Oct 21
 : **lecture**{: .label .label-blue}[Processor Architecture III: Pipelined Implementation](/ics-fa24/assets/lec/11-Processor Arch-Pipelined.pdf)
-  : **read**{: .label .label-green}TBD
+  : **read**{: .label .label-green}Ch4.4 - Ch4.5
 
 Oct 23
 : **seminar**{: .label .label-purple}Week 7
@@ -12,4 +12,4 @@ Oct 23
 
 Oct 24
 : **lecture**{: .label .label-blue}[The Memory Hierarchy](/ics-fa24/assets/lec/12-memory-hierarchy.pdf)
-  : **read**{: .label .label-green}TBD
+  : **read**{: .label .label-green}Ch6.1 - Ch6.3

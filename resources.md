@@ -4,6 +4,15 @@ title: Resources
 nav_order: 2
 ---
 
+# Recommended Textbook
+
+[Computer Systems: A Programmer’s Perspective](/ics-fa24/assets/CSAPP-第三版-英文版.pdf)  
+by Randal E. Bryant and David R. O’Hallaron.
+
+**Supplementary Materials:**
+
+- [程序员的自我修养：链接、装载与库](https://awesome-programming-books.github.io/others/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB%EF%BC%9A%E9%93%BE%E6%8E%A5%E3%80%81%E8%A3%85%E8%BD%BD%E4%B8%8E%E5%BA%93.pdf)
+
 # Recommended Learning Materials
 
 This [Learning List](/ics-fa24/assets/Computer_Systems_Learning_Resources.pdf) is a great summary of the recommended materials for learning computer systems. Special thanks to Zhenbang You.
@@ -29,7 +38,7 @@ This [Website](https://csdiy.wiki/) is a self-learning guide to computer science
 | fa14 | [pdf](/ics-fa24/assets/exam/pdf/2014期中.pdf) [sol](/ics-fa24/assets/exam/sol/2014期中.docx) | [pdf](/ics-fa24/assets/exam/pdf/14期末.pdf) [sol](/ics-fa24/assets/exam/sol/2014期末.pdf) |
 | fa13 | [pdf](/ics-fa24/assets/exam/pdf/2013期中.pdf) [sol](/ics-fa24/assets/exam/sol/2013期中.docx) | [doc](/ics-fa24/assets/exam/pdf/13期末.docx) [sol](/ics-fa24/assets/exam/sol/2013期末.pdf) |
 
-[Here](/ics-fa24/assets/exercise/) are some selected problems! Maybe a bit harder :)
+[Here](https://github.com/pare1lel/ics-fa24/tree/main/assets/exercise) are some selected problems! Maybe a bit harder :)
 
 # Lab Handouts (Previous Term)
 

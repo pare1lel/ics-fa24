@@ -4,7 +4,7 @@ title: Week 16
 
 Dec 23
 : **lecture**{: .label .label-blue}[Synchronization: Advanced](/ics-fa24/assets/lec/27-SYNC2.pdf)
-  : **read**{: .label .label-green}TBD
+  : **read**{: .label .label-green}Ch12.5 - Ch12.7
 
 Dec 25
 : **seminar**{: .label .label-purple}Week 16
