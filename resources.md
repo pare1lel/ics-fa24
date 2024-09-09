@@ -7,7 +7,7 @@ nav_order: 2
 # Recommended Textbook
 
 [Computer Systems: A Programmer’s Perspective](/ics-fa24/assets/CSAPP-第三版-英文版.pdf)  
-by Randal E. Bryant and David R. O’Hallaron.
+by Randal E. Bryant and David R. O’Hallaron, [Chinese Version](/ics-fa24/assets/深入理解计算机系统（原书第3版）.pdf)
 
 **Supplementary Materials:**
 
