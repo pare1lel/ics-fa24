@@ -7,8 +7,8 @@ Sep 14
   : **read**{: .label .label-green}Ch2.4
 
 Sep 18
-: **seminar**{: .label .label-purple}Week 2
-  : **review**{: .label .label-yellow}02, 03
+: **seminar**{: .label .label-purple}[Week 2](/ics-fa24/assets/seminar/ta/week2.pdf)
+  : **review**{: .label .label-yellow}[02,](/ics-fa24/assets/seminar/stu/李金豪-ics回课-02.pdf) [03](/ics-fa24/assets/seminar/stu/连昊-ics回课-03.pdf)
 : **data lab out**{: .label .label-purple}[**Autolab**](https://autolab.pku.edu.cn/courses/ICS/assessments/datalab)
 
 Sep 19
