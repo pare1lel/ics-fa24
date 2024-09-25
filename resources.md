@@ -19,6 +19,8 @@ This [Learning List](/ics-fa24/assets/Computer_Systems_Learning_Resources.pdf) i
 
 This [Website](https://csdiy.wiki/) is a self-learning guide to computer science. Special thanks to [Yinmin Zhong](https://yinminzhong.com/)!
 
+This [document](/ics-fa24/assets/gdbnotes-x86-64.pdf) is a summary of GDB commands for x86-64 systems.
+
 # C Tutorial
 
 [Ladder](https://cs162.org/ladder/) is a helpful tutorial to help brush up on C. It is created by a Berkeley student for CS162. Special thanks to Jason Chin!

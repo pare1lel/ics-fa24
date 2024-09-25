@@ -7,8 +7,8 @@ Sep 23
   : **read**{: .label .label-green}Ch3.6
 
 Sep 25
-: **seminar**{: .label .label-purple}Week 3
-  : **review**{: .label .label-yellow}04, 05
+: **seminar**{: .label .label-purple}[Week 3](/ics-fa24/assets/seminar/ta/week3.pdf)
+  : **review**{: .label .label-yellow}[04,](/ics-fa24/assets/seminar/stu/齐致权-ics回课-04.pdf) [05](/ics-fa24/assets/seminar/stu/阮宗泽-ics回课-05.pdf)
 : **hw1 due**{: .label .label-red}[**Homework**](/ics-fa24/assets/ICS-homework.pdf)
 
 Sep 26
