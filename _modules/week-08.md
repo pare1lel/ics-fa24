@@ -8,7 +8,7 @@ Oct 28
 
 Oct 30
 : **seminar**{: .label .label-purple}Week 8
-  : **review**{: .label .label-yellow}12, 13
+  : **review**{: .label .label-yellow}[12,](/ics-fa24/assets/seminar/stu/李金豪-ics回课-12.pdf) [13](/ics-fa24/assets/seminar/stu/连昊-ics回课-13.pdf)
 
 Oct 31
 : **lecture**{: .label .label-blue}[Program Optimization](/ics-fa24/assets/lec/14-optimization.pdf)

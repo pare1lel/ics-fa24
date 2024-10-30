@@ -7,8 +7,8 @@ Oct 21
   : **read**{: .label .label-green}Ch4.4 - Ch4.5
 
 Oct 23
-: **seminar**{: .label .label-purple}Week 7
-  : **review**{: .label .label-yellow}10, 11
+: **seminar**{: .label .label-purple}[Week 7](/ics-fa24/assets/seminar/ta/week7.pdf)
+  : **review**{: .label .label-yellow}[10,](/ics-fa24/assets/seminar/stu/董淑琦-ics回课-10.pdf) [11](/ics-fa24/assets/seminar/stu/齐致权-ics回课-11.pdf)
 
 Oct 24
 : **lecture**{: .label .label-blue}[The Memory Hierarchy](/ics-fa24/assets/lec/12-memory-hierarchy.pdf)
