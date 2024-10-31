@@ -29,6 +29,7 @@ This [document](/ics-fa24/assets/gdbnotes-x86-64.pdf) is a summary of GDB comman
 
 | Term | Midterm | Final |
 | :--: | :-----: | :---: |
+| fa23 | [sol](/ics-fa24/assets/exam/sol/2023期中.pdf) | |
 | fa22 | [pdf](/ics-fa24/assets/exam/pdf/2022期中.pdf) [sol](/ics-fa24/assets/exam/sol/2022期中.pdf) | [pdf](/ics-fa24/assets/exam/pdf/22期末.pdf) [sol](/ics-fa24/assets/exam/sol/22期末答案.docx) |
 | fa21 | [pdf](/ics-fa24/assets/exam/pdf/2021期中.pdf) [sol](/ics-fa24/assets/exam/sol/2021期中.pdf) | [pdf](/ics-fa24/assets/exam/pdf/21期末.pdf) [sol](/ics-fa24/assets/exam/sol/2021期末.zip) |
 | fa20 | [pdf](/ics-fa24/assets/exam/pdf/2020期中.pdf) [sol](/ics-fa24/assets/exam/sol/2020期中.pdf) | [pdf](/ics-fa24/assets/exam/pdf/20期末.pdf) [sol](/ics-fa24/assets/exam/sol/2019-20final_answer.pdf) |
@@ -39,6 +40,7 @@ This [document](/ics-fa24/assets/gdbnotes-x86-64.pdf) is a summary of GDB comman
 | fa15 | [pdf](/ics-fa24/assets/exam/pdf/2015期中.pdf) [sol](/ics-fa24/assets/exam/sol/2015期中.pdf) | [doc](/ics-fa24/assets/exam/pdf/15期末.docx) [sol](/ics-fa24/assets/exam/sol/2015期末.pdf) |
 | fa14 | [pdf](/ics-fa24/assets/exam/pdf/2014期中.pdf) [sol](/ics-fa24/assets/exam/sol/2014期中.docx) | [pdf](/ics-fa24/assets/exam/pdf/14期末.pdf) [sol](/ics-fa24/assets/exam/sol/2014期末.pdf) |
 | fa13 | [pdf](/ics-fa24/assets/exam/pdf/2013期中.pdf) [sol](/ics-fa24/assets/exam/sol/2013期中.docx) | [doc](/ics-fa24/assets/exam/pdf/13期末.docx) [sol](/ics-fa24/assets/exam/sol/2013期末.pdf) |
+| fa12 | [sol](/ics-fa24/assets/exam/sol/2012期中.pdf) | |
 
 [Here](https://github.com/zhuozhiyongde/Introduction-To-Computer-System-2023Fall-PKU/blob/main/%E6%9C%9F%E6%9C%AB%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8B%98%E8%AF%AF%E3%80%81%E8%AF%A6%E8%A7%A3.md) are corrections to these exams written by another TA.
 

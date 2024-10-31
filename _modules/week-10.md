@@ -7,7 +7,7 @@ Nov 11
   : **read**{: .label .label-green}Ch7.1 - Ch7.9
 
 Nov 13
-: **seminar**{: .label .label-purple}Week 10
+: **arch lab due**{: .label .label-red} **seminar**{: .label .label-purple}Week 10
   : **review**{: .label .label-yellow}15
 
 Nov 14

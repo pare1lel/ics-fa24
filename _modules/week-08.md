@@ -13,3 +13,4 @@ Oct 30
 Oct 31
 : **lecture**{: .label .label-blue}[Program Optimization](/ics-fa24/assets/lec/14-optimization.pdf)
   : **read**{: .label .label-green}Ch5
+: **arch lab out**{: .label .label-purple}[**Autolab**](https://autolab.pku.edu.cn/courses/ICS/assessments/archlab)

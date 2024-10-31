@@ -11,3 +11,6 @@ Nov 6
 
 Nov 7
 : **guest lecture**{: .label .label-blue}
+
+Nov 8
+: **attack lab due**{: .label .label-red}

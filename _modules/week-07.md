@@ -13,3 +13,4 @@ Oct 23
 Oct 24
 : **lecture**{: .label .label-blue}[The Memory Hierarchy](/ics-fa24/assets/lec/12-memory-hierarchy.pdf)
   : **read**{: .label .label-green}Ch6.1 - Ch6.3
+: **attack lab out**{: .label .label-purple}[**Autolab**](https://autolab.pku.edu.cn/courses/ICS/assessments/attacklab)
