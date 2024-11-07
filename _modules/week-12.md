@@ -8,7 +8,7 @@ Nov 25
 
 Nov 27
 : **seminar**{: .label .label-purple}Week 12
-  : **review**{: .label .label-yellow}18, 19
+  : **review**{: .label .label-yellow}19
 
 Nov 28
 : **lecture**{: .label .label-blue}[Virtual Memory: Concepts](/ics-fa24/assets/lec/20-VM1.pdf)

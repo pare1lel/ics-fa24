@@ -10,7 +10,8 @@ Nov 6
   : **review**{: .label .label-yellow}Mid Term
 
 Nov 7
-: **guest lecture**{: .label .label-blue}
+: **lecture**{: .label .label-blue}[Basic Concepts & Static Linking](/ics-fa24/assets/lec/15-Linking-Basic Concepts & Static Linking.pdf)
+  : **read**{: .label .label-green}Ch7.1 - Ch7.9
 
 Nov 8
 : **attack lab due**{: .label .label-red}

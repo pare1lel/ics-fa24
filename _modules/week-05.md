@@ -3,7 +3,7 @@ title: Week 5
 ---
 
 Oct 9
-: **seminar**{: .label .label-purple} [Week 5](/ics-fa24/assets/seminar/ta/week5.pdf)
+: **seminar**{: .label .label-purple}[Week 5](/ics-fa24/assets/seminar/ta/week5.pdf)
   : **review**{: .label .label-yellow}[06,](/ics-fa24/assets/seminar/stu/张子健-ics回课-06.pdf) [07](/ics-fa24/assets/seminar/stu/胡仕豪-ics回课-07.pdf)
 
 Oct 10

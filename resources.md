@@ -29,6 +29,7 @@ This [document](/ics-fa24/assets/gdbnotes-x86-64.pdf) is a summary of GDB comman
 
 | Term | Midterm | Final |
 | :--: | :-----: | :---: |
+| fa24 | [sol](/ics-fa24/assets/exam/sol/2024期中.pdf) | |
 | fa23 | [sol](/ics-fa24/assets/exam/sol/2023期中.pdf) | |
 | fa22 | [pdf](/ics-fa24/assets/exam/pdf/2022期中.pdf) [sol](/ics-fa24/assets/exam/sol/2022期中.pdf) | [pdf](/ics-fa24/assets/exam/pdf/22期末.pdf) [sol](/ics-fa24/assets/exam/sol/22期末答案.docx) |
 | fa21 | [pdf](/ics-fa24/assets/exam/pdf/2021期中.pdf) [sol](/ics-fa24/assets/exam/sol/2021期中.pdf) | [pdf](/ics-fa24/assets/exam/pdf/21期末.pdf) [sol](/ics-fa24/assets/exam/sol/2021期末.zip) |
