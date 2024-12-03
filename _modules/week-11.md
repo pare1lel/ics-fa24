@@ -12,6 +12,7 @@ Nov 20
 
 Nov 21
 : **guest lecture**{: .label .label-blue}
+: **shell lab out**{: .label .label-purple}[**Autolab**](https://autolab.pku.edu.cn/courses/ICS/assessments/tshlab)
 
 Nov 24
 : **cache lab due**{: .label .label-red}

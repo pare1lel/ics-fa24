@@ -13,3 +13,6 @@ Dec 11
 Dec 12
 : **lecture**{: .label .label-blue}[Concurrent Programming](/ics-fa24/assets/lec/24-CONC.pdf)
   : **read**{: .label .label-green}Ch12.1 - Ch12.3
+
+Dec 15
+: **malloc lab due**{: .label .label-red}
