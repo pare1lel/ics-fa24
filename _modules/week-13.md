@@ -8,8 +8,8 @@ Dec 2
 : **malloc lab out**{: .label .label-purple}[**Autolab**](https://autolab.pku.edu.cn/courses/ICS/assessments/malloclab)
 
 Dec 4
-: **seminar**{: .label .label-purple}Week 13
-  : **review**{: .label .label-yellow}20, 21
+: **seminar**{: .label .label-purple}[Week 13](/ics-fa24/assets/seminar/ta/week13.pdf)
+  : **review**{: .label .label-yellow}[20,](/ics-fa24/assets/seminar/stu/张嘉诚-ics回课-20.pdf) [21](/ics-fa24/assets/seminar/stu/张子健-ics回课-21.pdf)
 : **shell lab due**{: .label .label-red}
 
 Dec 5

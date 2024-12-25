@@ -8,7 +8,7 @@ Dec 16
 
 Dec 18
 : **seminar**{: .label .label-purple}Week 15
-  : **review**{: .label .label-yellow}24, 25
+  : **review**{: .label .label-yellow}[24](/ics-fa24/assets/seminar/stu/胡仕豪-ics回课-24.pdf)
 
 Dec 19
 : **lecture**{: .label .label-blue}[Synchronization: Advanced](/ics-fa24/assets/lec/26-SYNC2.pdf)
